@@ -1,0 +1,3 @@
+import Solver
+
+Solver.main()
